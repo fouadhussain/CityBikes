@@ -18,7 +18,7 @@ JUnit Tests
 ----------------------------------------------------
 Test Description: 
 
-- As a user I want to verify that the city Frankfurt is in Germany and return their corresponded latitude and longitude
+- As a user I want to verify that the city Frankfurt is in Germany and return the corresponded latitude and longitude
 
 Test Input Data:
 
