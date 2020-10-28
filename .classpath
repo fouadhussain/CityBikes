@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/json-20200518.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/org.testng_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/org.testng.eclipse_7.3.0.202008060412.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/org.testng.source_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/org.testng.eclipse.maven_7.3.0.202008060412.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/.p2/pool/plugins/com.beust.jcommander_1.78.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
