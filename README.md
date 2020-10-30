@@ -30,7 +30,7 @@ Expected result:
 
 
 ----------------------------------------------------
-2. JUnit_List_CityBike_Companies_In_Russia.java
+2. JUnit_List_CityBike_In_Russia.java
 ----------------------------------------------------
 Test Description: 
 

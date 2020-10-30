@@ -6,7 +6,7 @@
       <class name="APITest.JUnit_List_CityBike_Locations_USA_With_WebLink"/>
       <class name="APITest.JUnit_List_CityBike_Locations_In_UK_With_Coordinates"/>
        <class name="APITest.JUnit_Verify_Frankfurt_in_Germany"/>
-       <class name="APITest.JUnit_List_CityBike_Companies_In_Russia"/>
+       <class name="APITest.JUnit_List_CityBike_In_Russia"/>
         <class name="APITest.JUnit_List_CityBike_Locations_In_China_With_WebLink"/>
     </classes>
   </test> <!-- Test -->
